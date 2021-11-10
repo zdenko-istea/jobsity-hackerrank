@@ -1,2 +1,2 @@
-# jobsity-hackerrank
-Jobsity hackerrank coding challenge 
+# jobsity-hackerrank Coding Challenge
+I've decided to use python3 for this coding challenge, the main idea behind my proposal is to use 3 lists, 1 will be the one that we are providing to the function where we have our original data. The second one will be our temporary list, where we'll store the values of the "sublists". And finally we'll use the third list to gather all the min values from each sublist and take the max out of there and return it in the end. 
